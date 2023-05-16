@@ -1,0 +1,110 @@
+ .u-section-1 {
+  background-image: url("https://assets.nicepagecdn.com/5b59161b/4913412/images/watercolor-flowers-leaves-seamless-pattern-hand-painted-pastel-colors-inspired-garden-plants-romantic-floral-151479146.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 450px;
+  background-image: none;
+  margin: 46px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 100px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  margin: 24px 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 48px;
+  min-height: 16px;
+  width: 116px;
+  min-width: 52px;
+  margin: 19px auto 0;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 563px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 431px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 53px;
+    margin-bottom: 53px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 321px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+}
